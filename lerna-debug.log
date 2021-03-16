@@ -1,0 +1,10 @@
+17 error Error: Command failed with exit code 1: git remote update
+17 error fatal: unable to access 'https://gitee.com/husilu/storybook-demo.git/': Could not resolve host: gitee.com
+17 error error: Could not fetch origin
+17 error Fetching origin
+17 error     at makeError (D:\study\StoryBook_Demo\node_modules\execa\lib\error.js:59:11)
+17 error     at Function.module.exports.sync (D:\study\StoryBook_Demo\node_modules\execa\index.js:186:17)
+17 error     at Object.execSync (D:\study\StoryBook_Demo\node_modules\@lerna\child-process\index.js:39:16)
+17 error     at updateRemote (D:\study\StoryBook_Demo\node_modules\@lerna\version\lib\is-behind-upstream.js:34:16)
+17 error     at isBehindUpstream (D:\study\StoryBook_Demo\node_modules\@lerna\version\lib\is-behind-upstream.js:16:3)
+17 error     at VersionCommand.initialize (D:\study\StoryBook_Demo\node_modules\@lerna\version\index.js:153:9)

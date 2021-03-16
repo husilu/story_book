@@ -1,0 +1,17 @@
+{
+  "name": "lg-formitem-hsl",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-validator": "^3.5.1"
+  },
+  "gitHead": "6af854c40af0fe11f68a44106f3f2e6930c96048"
+}
